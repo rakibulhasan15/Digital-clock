@@ -1,3 +1,3 @@
 # Digital Clock with JavaScript
 ### Project View
-<img src="./projectscreenshot.jpg">
+<img src="./project screenshot.jpg">
