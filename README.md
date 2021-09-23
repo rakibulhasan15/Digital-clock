@@ -8,4 +8,4 @@
 
 ## Project Screenshot
 
-<img src="./screenshot.jpg">
+<img src="./projectscreenshot.jpg">
